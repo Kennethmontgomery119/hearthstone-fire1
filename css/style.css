@@ -28,3 +28,9 @@ body {
 .slogan {
     font-size: 22px;
 }
+
+.motto {
+    font-family: 'Rock Salt', cursive;
+    color: rgb(255, 102, 0);
+    font-size: 35px;
+}
