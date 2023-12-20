@@ -1,5 +1,27 @@
-body{
+body {
     background-color: black;
     color: white;
     text-align:center;
 }
+
+.title {
+    color: rgb(255, 102, 0);
+    font-size: 50px;
+    font-family: 'Rock Salt', cursive;
+}
+
+.form {
+     padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #f57804;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: #373837;
+}
+
+.submit {
+    background-color: #3d67f1d5; 
+    color: white;
+}
+
