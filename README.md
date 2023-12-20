@@ -1,6 +1,6 @@
 # Hearthstone & Fire
 
-hosting url: 
+hosting url: https://kennethmontgomery119.github.io/hearthstone-fire1/
 
 ## User stories
 
